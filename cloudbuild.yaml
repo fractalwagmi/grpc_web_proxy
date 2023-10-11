@@ -1,4 +1,4 @@
-https://github.com/ricebin/grpc_web_proxysteps:
+steps:
   - name: gcr.io/k8s-skaffold/pack
     args:
       - build
